@@ -72,7 +72,7 @@ A key finding in this project was the **Regularization Effect** observed during 
 ## 🚀 How to Run
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/plant-seedling-classification.git
+    git clone git@github.com:KshitijMittal/Plant-Seedling-Classification.git
     ```
 2.  **Install dependencies:**
     ```bash
